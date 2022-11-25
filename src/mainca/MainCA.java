@@ -22,7 +22,10 @@ public class MainCA {
         int a,b;
         
         System.out.println("enter a");
-        a=sc.
+        a=sc.nextIn();
+        System.out.println("enter b");
+        b=sc.nextInt();
+        System
         
         // TODO code application logic here
         
